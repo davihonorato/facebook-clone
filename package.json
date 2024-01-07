@@ -1,0 +1,11 @@
+{
+  "name": "facebook-clone",
+  "version": "1.0.0",
+  "description": "Facebook clone with tailwindcss",
+  "main": "index.js",
+  "author": "Davi Honorato",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.4.0"
+  }
+}
